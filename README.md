@@ -7,6 +7,6 @@ This project is created for learning reactJS
 
 https://covid19.mathdro.id/api
 
-### `Netlify URL`
+### `URL`
 
-https://nifty-franklin-125484.netlify.app
+covid-19-tracker-react.vercel.app
