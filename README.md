@@ -9,4 +9,4 @@ https://covid19.mathdro.id/api
 
 ### `URL`
 
-covid-19-tracker-react.vercel.app
+https://covid-19-tracker-react.vercel.app
